@@ -46,20 +46,19 @@
 ---
 <h2>구조도</h2>
 
-![image](https://github.com/user-attachments/assets/d7738ff8-47ba-4da5-af99-98ffb27c76ac)
+<img width="1379" alt="jojo_구조" src="https://github.com/user-attachments/assets/ac20262d-d0c7-4a20-9d8d-eba29da7ef80" />
 
 <h2>USECASE</h2>
 
-![image](https://github.com/user-attachments/assets/3e157741-1083-4e56-97e6-a911e0a006f4)
+![USECASE 최종](https://github.com/user-attachments/assets/893ee633-3f15-4653-b995-8dbe7f598b1d)
 
 <h2>ERD</h2>
 
-![image](https://github.com/user-attachments/assets/010eadbb-f304-40b9-9c2f-b9488a048103)
+<img width="1417" alt="ERD" src="https://github.com/user-attachments/assets/ae948c3d-fd46-4931-bce4-9b72871b2879" />
 
 <h2>개발 환경</h2>
 
 <img width="1083" alt="image" src="https://github.com/user-attachments/assets/6fcfa713-67f4-4740-94ee-f5a27079ac80" />
-
 
 <h2>작업 일정</h2>
 
