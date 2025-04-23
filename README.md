@@ -43,4 +43,25 @@
     - Selenium 및 크롬 드라이브를 활용하여 스포츠 뉴스 및 이미지 크롤링
     - 파일 저장 및 DB 저장 처리
 
+---
+<h2>구조도</h2>
+
+![image](https://github.com/user-attachments/assets/d7738ff8-47ba-4da5-af99-98ffb27c76ac)
+
+<h2>USECASE</h2>
+
+![image](https://github.com/user-attachments/assets/3e157741-1083-4e56-97e6-a911e0a006f4)
+
+<h2>ERD</h2>
+
+![image](https://github.com/user-attachments/assets/010eadbb-f304-40b9-9c2f-b9488a048103)
+
+<h2>개발 환경</h2>
+
+<img width="1083" alt="image" src="https://github.com/user-attachments/assets/6fcfa713-67f4-4740-94ee-f5a27079ac80" />
+
+
+<h2>작업 일정</h2>
+
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/a27f8d9d-fa9d-417e-8c04-440b40745b1e" />
 
