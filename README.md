@@ -75,7 +75,7 @@
 
 <h2>시스템 아키텍쳐</h2>
 
-![세미 시스템아키텍쳐](https://github.com/user-attachments/assets/b20b0c7c-aa6e-4d32-a690-307e50ceab74)
+![시스템아키텍쳐](https://github.com/user-attachments/assets/9e009bb8-737d-4b60-92d3-5b58d511af3d)
 
 
 <h2>개발 환경</h2>
