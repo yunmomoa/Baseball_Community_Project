@@ -72,6 +72,12 @@
 
 <img width="1417" alt="ERD" src="https://github.com/user-attachments/assets/ae948c3d-fd46-4931-bce4-9b72871b2879" />
 
+
+<h2>시스템 아키텍쳐</h2>
+
+![세미 시스템아키텍쳐](https://github.com/user-attachments/assets/b20b0c7c-aa6e-4d32-a690-307e50ceab74)
+
+
 <h2>개발 환경</h2>
 
 <img width="1083" alt="image" src="https://github.com/user-attachments/assets/6fcfa713-67f4-4740-94ee-f5a27079ac80" />
